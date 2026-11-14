@@ -11,6 +11,8 @@
 
 到 **[Releases 頁面](https://github.com/HankHsu1969/md-viewer/releases/latest)** 下載 `MDViewer.exe`，放到任何資料夾，雙擊就能用。
 
+如果下載 EXE 被瀏覽器或公司網路擋住，可以改下載同一頁的 `MDViewer.zip`，解壓縮後裡面就是同一個 `MDViewer.exe`。
+
 > **第一次執行看到「Windows 已保護您的電腦」？**
 > 這是因為程式沒有購買付費的數位簽章，Windows 不認得它。按「**其他資訊**」→「**仍要執行**」即可。
 > 想確認下載的檔案沒有被動過手腳，可以在 PowerShell 執行 `Get-FileHash MDViewer.exe`，和 Releases 頁面上公布的 SHA-256 比對。
